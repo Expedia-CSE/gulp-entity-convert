@@ -26,7 +26,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "entity-convert": "git+https://github.com/Expedia-CSE/entity-convert.git",
+    "entity-convert": "git+https://github.com/Expedia-CSE/entity-convert.git#fc8644a1712c39e95901e1166fd93bff04fdcc41",
     "gulp-util": "^3.0.1",
     "map-stream": "~0.0.5"
   },
